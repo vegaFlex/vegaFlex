@@ -17,5 +17,5 @@ I am also actively working on several other projects that are still in developme
 
 📩 Feel free to connect with me or explore my projects! 
 
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vegaFlex&show_icons=true&theme=dark)
 
