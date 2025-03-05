@@ -7,11 +7,15 @@ Aspiring Software Developer with a strong foundation in **Python & Django**, pas
 
 🖥️ I also have experience with **JavaScript at a fundamental level**, allowing me to build responsive and user-friendly interfaces.
 
-## My Projects  
+## Hosted Applications  
+Here are my hosted applications:  
 - 🌐 **[EventHub](https://eventhub-fta3fsb7dgctfagd.italynorth-01.azurewebsites.net/bg/)** – A multifunctional event management platform.  
 - 📚 **[BookZone](https://bookzone-bg-ckd0b9b3abdvfncx.italynorth-01.azurewebsites.net/)** – An online bookstore with advanced user interaction features.  
 
-📩 Feel free to connect with me or explore my projects! 🚀
+I am also actively working on several other projects that are still in development and not yet hosted. Stay tuned for updates! 
+ 
+
+📩 Feel free to connect with me or explore my projects! 
 
 
 
