@@ -17,6 +17,8 @@ I am also actively working on several other projects that are still in developme
 
 📩 Feel free to connect with me or explore my projects! 
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vegaFlex&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vegaFlex&show_icons=true&include_all_commits=true&count_private=true&theme=dark)
 
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vegaFlex&layout=compact&langs_count=10&count_private=true&theme=dark)
 
