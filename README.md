@@ -17,12 +17,7 @@ I am also actively working on several other projects that are still in developme
 
 📩 Feel free to connect with me or explore my projects! 
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vegaFlex&layout=compact&langs_count=10&count_private=true&theme=dark)
-
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=vegaFlex&theme=dark&no-frame=true&column=7)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vegaFlex&theme=github-dark)
-
-![Metrics](https://github.com/vegaFlex/github-metrics/blob/main/github-metrics.svg)
+![HTML Badge](https://img.shields.io/badge/-HTML-FF5733?style=flat-square&logo=html5&logoColor=white)
+![CSS Badge](https://img.shields.io/badge/-CSS-2965f1?style=flat-square&logo=css3&logoColor=white)
+![Python Badge](https://img.shields.io/badge/-Python-306998?style=flat-square&logo=python&logoColor=white)
 
