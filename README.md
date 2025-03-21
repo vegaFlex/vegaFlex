@@ -1,5 +1,14 @@
 # Welcome to my GitHub profile! 👋
 
+### 🚀 Technologies & Tools
+![Python](https://img.shields.io/badge/-Python-306998?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
 ## About Me  
 Aspiring Software Developer with a strong foundation in **Python & Django**, passionate about building robust and scalable web applications. Recently completed my training at **SoftUni** and actively working on real-world projects to sharpen my skills.  
 
