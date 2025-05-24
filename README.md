@@ -12,6 +12,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![KNIME](https://img.shields.io/badge/-KNIME-F7DF1E?style=flat-square&logo=knime&logoColor=black)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+
 
 ## About Me  
 Aspiring Software Developer with a strong foundation in **Python & Django**, passionate about building robust and scalable web applications. Recently completed my training at **SoftUni** and actively working on real-world projects to sharpen my skills.  
