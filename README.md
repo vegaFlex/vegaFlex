@@ -25,9 +25,9 @@ Aspiring Software Developer with a strong foundation in **Python & Django**, pas
 
 ## Hosted Applications  
 Here are my hosted applications:
-- 🍽️ **[Paradise Food Order App](https://nekrato.com/menu/)** – A workplace meal-ordering system with location logic (Buhovo/Yana/Office), cart, order history, daily/monthly admin summaries, and catering exports.  
-- 🌐 **[EventHub](https://eventhub-fta3fsb7dgctfagd.italynorth-01.azurewebsites.net/bg/)** – A multifunctional event management platform.  
-- 📚 **[BookZone](https://bookzone-bg-ckd0b9b3abdvfncx.italynorth-01.azurewebsites.net/)** – An online bookstore with advanced user interaction features.  
+- 🍽️ **[Paradise Food Order App](https://nekrato.com/menu/)** – System for ordering food and various types of information for the Paradise Mattress Factory and their office.  
+- 🌐 **[EventHub](https://github.com/vegaFlex/EventHub_README)** – A multifunctional event management platform.  
+- 📚 **[BookZone](https://github.com/vegaFlex/OnlineBookstore_README)** – An online bookstore with advanced user interaction features.  
 
 I am also actively working on several other projects that are still in development and not yet hosted. Stay tuned for updates! 
  
