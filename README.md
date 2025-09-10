@@ -17,22 +17,13 @@
 
 
 ## About Me  
-💡 Software Engineer (Python/Django) focused on building production-grade, scalable web apps end-to-end — from data models and business logic to clean, responsive UIs and reliable deployments.
+Software Engineer (Python/Django) focused on building production-grade, scalable web apps end-to-end — from data models and business logic to clean, responsive UIs and reliable deployments.
 
-I design, ship, and operate real products:
+What I work with: Python, Django, JavaScript, HTML/CSS, TailwindCSS, AJAX/vanilla JS, PostgreSQL, SQLite (dev), Git & GitHub, GitHub Actions, Azure App Service, Passenger (SuperHosting), Stripe.
 
-Paradise Food Order App — workplace meal ordering with location rules (Buhovo/Yana/Office), cart, order history, daily/monthly admin summaries, and catering exports. Prod: nekrato.com.
-
-BookZone — full e-commerce bookstore with cart, favorites, reviews, and Stripe payments. Deployed on Azure App Service.
-
-EventHub — event management & ticketing platform with maps and email flows.
-
-What I work with: Python, Django, Django Admin, Django Templates/TailwindCSS, AJAX/vanilla JS, PostgreSQL, SQLite (dev), Git & GitHub, GitHub Actions, Azure App Service, Passenger (SuperHosting), Stripe.
 How I work: solid data modeling, clear APIs and views, admin UX customization, pragmatic testing, CI/CD, and deployments that don’t break on Friday.
 
 Open to roles where I can own features end-to-end and improve real business workflows.**.  
-
-🖥️ I also have experience with **JavaScript at a fundamental level**, allowing me to build responsive and user-friendly interfaces.
 
 ## Hosted Applications  
 Here are my hosted applications:
