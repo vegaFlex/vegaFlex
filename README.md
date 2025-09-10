@@ -23,9 +23,9 @@ Software Engineer **(Python/Django)** focused on building production-grade, scal
 **Python**, **Django**, **JavaScript**, **HTML/CSS**, **TailwindCSS**, **AJAX/vanilla JS**, **PostgreSQL**, **SQLite (dev)**, **Git & GitHub**, **GitHub Actions**, **Azure App Service**, **Passenger (SuperHosting)**, **Stripe**.
 
 ## How I work:
-solid data modeling, clear APIs and views, admin UX customization, pragmatic testing, CI/CD, and deployments that don’t break on Friday.
+Solid data modeling, clear APIs and views, admin UX customization, pragmatic testing, CI/CD, and deployments that don’t break on Friday.
 
-Open to roles where I can own features end-to-end and improve real business workflows. 
+**Open to roles where I can own features end-to-end and improve real business workflows.**
 
 ## Hosted Applications  
 Here are my hosted applications:
