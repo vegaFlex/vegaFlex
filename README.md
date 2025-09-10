@@ -19,9 +19,11 @@
 ## About Me  
 Software Engineer **(Python/Django)** focused on building production-grade, scalable web apps end-to-end — from data models and business logic to clean, responsive UIs and reliable deployments.
 
-What I work with: **Python**, **Django**, **JavaScript**, **HTML/CSS**, **TailwindCSS**, **AJAX/vanilla JS**, **PostgreSQL**, **SQLite (dev)**, **Git & GitHub**, **GitHub Actions**, **Azure App Service**, **Passenger (SuperHosting)**, **Stripe**.
+## What I work with:
+**Python**, **Django**, **JavaScript**, **HTML/CSS**, **TailwindCSS**, **AJAX/vanilla JS**, **PostgreSQL**, **SQLite (dev)**, **Git & GitHub**, **GitHub Actions**, **Azure App Service**, **Passenger (SuperHosting)**, **Stripe**.
 
-How I work: solid data modeling, clear APIs and views, admin UX customization, pragmatic testing, CI/CD, and deployments that don’t break on Friday.
+## How I work:
+solid data modeling, clear APIs and views, admin UX customization, pragmatic testing, CI/CD, and deployments that don’t break on Friday.
 
 Open to roles where I can own features end-to-end and improve real business workflows. 
 
@@ -48,6 +50,8 @@ I am also actively working on several other projects that are still in developme
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![KNIME](https://img.shields.io/badge/-KNIME-F7DF1E?style=flat-square&logo=knime&logoColor=black)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
 
 
