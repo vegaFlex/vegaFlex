@@ -24,7 +24,8 @@ Aspiring Software Developer with a strong foundation in **Python & Django**, pas
 🖥️ I also have experience with **JavaScript at a fundamental level**, allowing me to build responsive and user-friendly interfaces.
 
 ## Hosted Applications  
-Here are my hosted applications:  
+Here are my hosted applications:
+- 🍽️ **[Paradise Food Order App](https://nekrato.com/menu/)** – A workplace meal-ordering system with location logic (Buhovo/Yana/Office), cart, order history, daily/monthly admin summaries, and catering exports.  
 - 🌐 **[EventHub](https://eventhub-fta3fsb7dgctfagd.italynorth-01.azurewebsites.net/bg/)** – A multifunctional event management platform.  
 - 📚 **[BookZone](https://bookzone-bg-ckd0b9b3abdvfncx.italynorth-01.azurewebsites.net/)** – An online bookstore with advanced user interaction features.  
 
