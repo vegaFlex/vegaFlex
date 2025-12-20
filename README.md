@@ -32,7 +32,7 @@ Here are my hosted applications:
 - 🍽️ **[Paradise Food Order App – Live Demo](https://nekrato.com/menu/)**  
   **[Paradise Food Order App – Source Code](https://github.com/vegaFlex/ParadiseFoodOrderApp_README)**  
   Internal food ordering system for Paradise Mattress Factory with daily menus, locations and admin summaries.
-- 
+  
 - 🎟️ **[EventHub – Live Demo](https://eventhub-vegata.pythonanywhere.com/bg/)**  
   **[EventHub – Source Code](https://github.com/vegaFlex/EventHub_README)**  
   A multifunctional event management platform with ticket sales, seat selection and admin control.
