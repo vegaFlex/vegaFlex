@@ -34,7 +34,8 @@ Clean data models, efficient SQL queries, structured Excel analyses, clear APIs 
 
 ## Hosted Applications  
 Here are my hosted applications:
-- 🍽️ **[Paradise Food Order App – Live Demo](https://nekrato.com/menu/)**  
+- 🍽️ **[Paradise Food Order App – Live Demo](https://nekrato.com/menu/)** – The site can be explored using a provided **test user account**. After logging in, all main features of the application are available for review.
+  
   **[Paradise Food Order App – Source Code](https://github.com/vegaFlex/ParadiseFoodOrderApp_README)**  
   Internal food ordering system for Paradise Mattress Factory with daily menus, locations and admin summaries.
   
