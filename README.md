@@ -29,9 +29,15 @@ Solid data modeling, clear APIs and views, admin UX customization, pragmatic tes
 
 ## Hosted Applications  
 Here are my hosted applications:
-- 🍽️ **[Paradise Food Order App](https://nekrato.com/menu/)** – System for ordering food and various types of information for the Paradise Mattress Factory and their office.  
-- 🌐 **[EventHub](https://github.com/vegaFlex/EventHub_README)** – A multifunctional event management platform.  
-- 📚 **[BookZone](https://github.com/vegaFlex/OnlineBookstore_README)** – An online bookstore with advanced user interaction features.  
+- 🍽️ **[Paradise Food Order App](https://nekrato.com/menu/)** – System for ordering food and various types of information for the Paradise Mattress Factory and their office.
+- 
+- 🎟️ **[EventHub – Live Demo](https://eventhub-vegata.pythonanywhere.com/bg/)**  
+  **[EventHub – Source Code](https://github.com/vegaFlex/EventHub_README)**  
+  A multifunctional event management platform with ticket sales, seat selection and admin control.
+
+- 📚 **[BookZone – Live Demo](https://vegata.pythonanywhere.com/)**  
+  **[BookZone – Source Code](https://github.com/vegaFlex/OnlineBookstore_README)**  
+  Online bookstore with advanced user interaction, cart and order management.
 
 I am also actively working on several other projects that are still in development and not yet hosted. Stay tuned for updates! 
  
