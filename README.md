@@ -16,16 +16,21 @@
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
 
-## About Me  
-Software Engineer **(Python/Django)** focused on building production-grade, scalable web apps end-to-end — from data models and business logic to clean, responsive UIs and reliable deployments.
+## About Me
+Software Engineer / Data Analyst **(Python / Django)** with a strong data analysis background and solid experience in **SQL and Excel**, focused on building production-grade, scalable web applications end-to-end — from data models and business logic to clean, responsive UIs and reliable deployments.
+
+I combine **engineering thinking with an analytical mindset**, using data to understand processes, uncover patterns, and build systems that support real business decisions.
 
 ## What I work with:
-**Python**, **Django**, **JavaScript**, **HTML/CSS**, **TailwindCSS**, **AJAX/vanilla JS**, **PostgreSQL**, **SQLite (dev)**, **Git & GitHub**, **GitHub Actions**, **Azure App Service**, **Passenger (SuperHosting)**, **Stripe**.
+**Python**, **Django**, **JavaScript**, **HTML/CSS**, **TailwindCSS**, **AJAX / vanilla JS**,  
+**PostgreSQL**, **SQLite (dev)**, **advanced SQL**, **Excel (analysis, formulas, reporting)**,  
+**data modeling**, **business logic design**, **Git & GitHub**, **GitHub Actions**,  
+**Azure App Service**, **Passenger (SuperHosting)**, **Stripe**.
 
 ## How I work:
-Solid data modeling, clear APIs and views, admin UX customization, pragmatic testing, CI/CD, and deployments that don’t break on Friday.
+Clean data models, efficient SQL queries, structured Excel analyses, clear APIs and views, admin UX customization, pragmatic testing, CI/CD pipelines, and deployments that stay stable under real usage — not just in demos.
 
-**Open to roles where I can own features end-to-end and improve real business workflows.**
+**Open to roles where I can own features end-to-end, analyze data, and improve real business workflows.**
 
 ## Hosted Applications  
 Here are my hosted applications:
