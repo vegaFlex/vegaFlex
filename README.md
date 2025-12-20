@@ -29,7 +29,9 @@ Solid data modeling, clear APIs and views, admin UX customization, pragmatic tes
 
 ## Hosted Applications  
 Here are my hosted applications:
-- 🍽️ **[Paradise Food Order App](https://nekrato.com/menu/)** – System for ordering food and various types of information for the Paradise Mattress Factory and their office.
+- 🍽️ **[Paradise Food Order App – Live Demo](https://nekrato.com/menu/)**  
+  **[Paradise Food Order App – Source Code](https://github.com/vegaFlex/ParadiseFoodOrderApp_README)**  
+  Internal food ordering system for Paradise Mattress Factory with daily menus, locations and admin summaries.
 - 
 - 🎟️ **[EventHub – Live Demo](https://eventhub-vegata.pythonanywhere.com/bg/)**  
   **[EventHub – Source Code](https://github.com/vegaFlex/EventHub_README)**  
