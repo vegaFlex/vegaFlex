@@ -1,6 +1,28 @@
 # Welcome to my GitHub profile! 👋
 
+---
+
+## ⭐ Featured Project — Fraud Monitoring Production System
+
+End-to-end Machine Learning system simulating real-world fraud risk analytics.
+
+✔ fraud probability prediction  
+✔ expected financial loss estimation  
+✔ realtime FastAPI scoring API  
+✔ PostgreSQL risk mart  
+✔ model monitoring & drift detection  
+✔ Power BI executive dashboard  
+
+🔗 Repository:
+https://github.com/vegaFlex/fraud-monitoring-prod
+
+---
+
 ### 🚀 Technologies & Tools
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-306998?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -17,23 +39,28 @@
 
 
 ## About Me
-Software Engineer / Data Analyst **(Python / Django)** with a strong data analysis background and solid experience in **SQL and Excel**, focused on building production-grade, scalable web applications end-to-end — from data models and business logic to clean, responsive UIs and reliable deployments.
-
-I combine **engineering thinking with an analytical mindset**, using data to understand processes, uncover patterns, and build systems that support real business decisions.
+Data Analyst and Python Engineer building end-to-end analytics platforms and web applications — combining data pipelines, machine learning models, backend APIs, and interactive dashboards to support real business operations and decision-making.
 
 ## What I work with:
+
+**Machine Learning**, **scikit-learn**, **feature engineering**,  
+**risk modeling**, **model monitoring**, **data pipelines**,  
+**probability scoring**, **business analytics**, **Power BI dashboards**
+
 **Python**, **Django**, **JavaScript**, **HTML/CSS**, **TailwindCSS**, **AJAX / vanilla JS**,  
 **PostgreSQL**, **SQLite (dev)**, **advanced SQL**, **Excel (analysis, formulas, reporting)**,  
 **data modeling**, **business logic design**, **Git & GitHub**, **GitHub Actions**,  
 **Azure App Service**, **Passenger (SuperHosting)**, **Stripe**.
 
 ## How I work:
-Clean data models, efficient SQL queries, structured Excel analyses, clear APIs and views, admin UX customization, pragmatic testing, CI/CD pipelines, and deployments that stay stable under real usage — not just in demos.
+I design systems with clear structure and business purpose — clean data models, efficient SQL queries, reliable APIs, and analytics workflows that remain stable under real usage, not only in demos.
+
+I focus on ownership, maintainability, and measurable outcomes: from data ingestion and modeling to deployment and monitoring.
 
 **Open to roles where I can own features end-to-end, analyze data, and improve real business workflows.**
 
 ## Hosted Applications  
-Here are my hosted applications:
+Here are my production and live applications:
 - 🍽️ **[Paradise Food Order App – Live Demo](https://nekrato.com/menu/)** – The site can be explored using a provided **test user account**. After logging in, all main features of the application are available for review.
   
 - **[Paradise Food Order App – Source Code](https://github.com/vegaFlex/ParadiseFoodOrderApp_README)**  
@@ -47,12 +74,16 @@ Here are my hosted applications:
   **[BookZone – Source Code](https://github.com/vegaFlex/OnlineBookstore_README)**  
   Online bookstore with advanced user interaction, cart and order management.
 
-I am also actively working on several other projects that are still in development and not yet hosted. Stay tuned for updates! 
+Additional analytics and machine learning projects are currently in active development.
  
 
 📩 Feel free to connect with me or explore my projects! 
 
 ### 🚀 Technologies & Tools
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-306998?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
