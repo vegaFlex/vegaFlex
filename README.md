@@ -18,7 +18,7 @@ https://github.com/vegaFlex/fraud-monitoring-prod
 
 ---
 
-### 🚀 Technologies & Tools
+## 🚀 Technologies & Tools
 ### 📊 Data Analytics & Machine Learning
 
 ![Python](https://img.shields.io/badge/-Python-306998?style=flat-square&logo=python&logoColor=white)
@@ -86,7 +86,7 @@ Additional analytics and machine learning projects are currently in active devel
 
 📩 Feel free to connect with me or explore my projects! 
 
-### 🚀 Technologies & Tools
+## 🚀 Technologies & Tools
 ### 📊 Data Analytics & Machine Learning
 
 ![Python](https://img.shields.io/badge/-Python-306998?style=flat-square&logo=python&logoColor=white)
