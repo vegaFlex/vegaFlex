@@ -1,6 +1,10 @@
 # Welcome to my GitHub profile! 👋
 
 ---
+I build end-to-end analytics and web systems that turn business processes into reliable, measurable products.
+
+My work combines data analysis, machine learning, backend engineering, dashboards, and deployment, with a strong focus on real-world usability, maintainability, and business value.
+---
 
 ## ⭐ Featured Project — Fraud Monitoring Production System
 
