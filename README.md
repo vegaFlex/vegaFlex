@@ -1,20 +1,62 @@
 # Welcome to my GitHub profile! 👋
 
----
+I build end-to-end analytics and web systems that turn business processes into reliable, measurable products.
 
-## ⭐ Featured Project — Fraud Monitoring Production System
+My work combines data analysis, machine learning, backend engineering, dashboards, and deployment, with a strong focus on real-world usability, maintainability, and business value.
 
-End-to-end Machine Learning system simulating real-world fraud risk analytics.
+## Featured Project
+### Fraud Monitoring Production System
+End-to-end machine learning system designed to simulate real-world fraud risk analytics and production decision workflows.
 
-✔ fraud probability prediction  
-✔ expected financial loss estimation  
-✔ realtime FastAPI scoring API  
-✔ PostgreSQL risk mart  
-✔ model monitoring & drift detection  
-✔ Power BI executive dashboard  
+Highlights:
+- Fraud probability prediction
+- Expected financial loss estimation
+- Real-time FastAPI scoring API
+- PostgreSQL risk mart
+- Model monitoring and drift detection
+- Power BI executive dashboard
 
-🔗 Repository:
-https://github.com/vegaFlex/fraud-monitoring-prod
+Repository:
+[fraud-monitoring-prod](https://github.com/vegaFlex/fraud-monitoring-prod)
+
+## What I Do
+- Build analytics and machine learning workflows that support business decisions
+- Develop backend systems and APIs with Python and Django/FastAPI
+- Design structured databases, reporting pipelines, and dashboard solutions
+- Deliver production-ready applications with clear business purpose
+
+## Core Stack
+**Python, Pandas, scikit-learn, FastAPI, Django, PostgreSQL, SQL, Power BI, Excel, JavaScript, HTML, CSS, TailwindCSS, Git, GitHub, Docker, Azure**
+
+## Selected Live Applications
+
+### Paradise Food Order App
+Internal food ordering platform for Paradise Mattress Factory with daily menus, locations, and admin summaries.
+
+- Live Demo: [nekrato.com/menu](https://nekrato.com/menu/)
+- Source Code: [ParadiseFoodOrderApp_README](https://github.com/vegaFlex/ParadiseFoodOrderApp_README)
+
+### EventHub
+Event management platform with ticket sales, seat selection, and admin controls.
+
+- Live Demo: [eventhub-vegata.pythonanywhere.com](https://eventhub-vegata.pythonanywhere.com/bg/)
+- Source Code: [EventHub_README](https://github.com/vegaFlex/EventHub_README)
+
+### BookZone
+Online bookstore with interactive shopping flow, cart, and order management.
+
+- Live Demo: [vegata.pythonanywhere.com](https://vegata.pythonanywhere.com/)
+- Source Code: [OnlineBookstore_README](https://github.com/vegaFlex/OnlineBookstore_README)
+
+## About Me
+I enjoy building systems where analytics, backend engineering, and business logic meet.
+
+I care about clean architecture, reliable workflows, and solutions that stay useful beyond the demo stage.
+
+I am especially interested in roles where I can contribute across the full lifecycle: data, logic, APIs, reporting, deployment, and continuous improvement.
+
+## Let’s Connect
+Feel free to explore my projects or connect with me.
 
 ---
 
@@ -43,48 +85,4 @@ https://github.com/vegaFlex/fraud-monitoring-prod
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-
-
-## About Me
-Data Analyst and Python Engineer building end-to-end analytics platforms and web applications — combining data pipelines, machine learning models, backend APIs, and interactive dashboards to support real business operations and decision-making.
-
-## What I work with:
-
-**Machine Learning**, **scikit-learn**, **feature engineering**,  
-**risk modeling**, **model monitoring**, **data pipelines**,  
-**probability scoring**, **business analytics**, **Power BI dashboards**
-
-**Python**, **Django**, **JavaScript**, **HTML/CSS**, **TailwindCSS**, **AJAX / vanilla JS**,  
-**PostgreSQL**, **SQLite (dev)**, **advanced SQL**, **Excel (analysis, formulas, reporting)**,  
-**data modeling**, **business logic design**, **Git & GitHub**, **GitHub Actions**,  
-**Azure App Service**, **Passenger (SuperHosting)**, **Stripe**.
-
-## How I work:
-I design systems with clear structure and business purpose — clean data models, efficient SQL queries, reliable APIs, and analytics workflows that remain stable under real usage, not only in demos.
-
-I focus on ownership, maintainability, and measurable outcomes: from data ingestion and modeling to deployment and monitoring.
-
-**Open to roles where I can own features end-to-end, analyze data, and improve real business workflows.**
-
-## Hosted Applications  
-Here are my production and live applications:
-- 🍽️ **[Paradise Food Order App – Live Demo](https://nekrato.com/menu/)** – The site can be explored using a provided **test user account**. After logging in, all main features of the application are available for review.
-  
-- **[Paradise Food Order App – Source Code](https://github.com/vegaFlex/ParadiseFoodOrderApp_README)**  
-  Internal food ordering system for Paradise Mattress Factory https://matraciparadise.com/ with daily menus, locations and admin summaries.
-  
-- 🎟️ **[EventHub – Live Demo](https://eventhub-vegata.pythonanywhere.com/bg/)**  
-  **[EventHub – Source Code](https://github.com/vegaFlex/EventHub_README)**  
-  A multifunctional event management platform with ticket sales, seat selection and admin control.
-
-- 📚 **[BookZone – Live Demo](https://vegata.pythonanywhere.com/)**  
-  **[BookZone – Source Code](https://github.com/vegaFlex/OnlineBookstore_README)**  
-  Online bookstore with advanced user interaction, cart and order management.
-
-Additional analytics and machine learning projects are currently in active development.
- 
-
-📩 Feel free to connect with me or explore my projects! 
-
-
 
