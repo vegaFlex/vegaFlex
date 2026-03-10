@@ -1,9 +1,12 @@
 # Welcome to my GitHub profile! 👋
 
+
 ---
+
 I build end-to-end analytics and web systems that turn business processes into reliable, measurable products.
 
 My work combines data analysis, machine learning, backend engineering, dashboards, and deployment, with a strong focus on real-world usability, maintainability, and business value.
+
 ---
 
 ## ⭐ Featured Project — Fraud Monitoring Production System
@@ -25,16 +28,6 @@ https://github.com/vegaFlex/fraud-monitoring-prod
 ## About Me
 Data Analyst and Python Engineer building end-to-end analytics platforms and web applications — combining data pipelines, machine learning models, backend APIs, and interactive dashboards to support real business operations and decision-making.
 
-## What I work with:
-
-**Machine Learning**, **scikit-learn**, **feature engineering**,  
-**risk modeling**, **model monitoring**, **data pipelines**,  
-**probability scoring**, **business analytics**, **Power BI dashboards**
-
-**Python**, **Django**, **JavaScript**, **HTML/CSS**, **TailwindCSS**, **AJAX / vanilla JS**,  
-**PostgreSQL**, **SQLite (dev)**, **advanced SQL**, **Excel (analysis, formulas, reporting)**,  
-**data modeling**, **business logic design**, **Git & GitHub**, **GitHub Actions**,  
-**Azure App Service**, **Passenger (SuperHosting)**, **Stripe**.
 
 ## How I work:
 I design systems with clear structure and business purpose — clean data models, efficient SQL queries, reliable APIs, and analytics workflows that remain stable under real usage, not only in demos.
