@@ -1,41 +1,26 @@
 # Welcome to my GitHub profile! 👋
 
-**Data Analyst and Python Engineer** building end-to-end analytics systems, backend applications, and business-focused software.
+---
 
-I work across **data analysis, machine learning, backend APIs, dashboards, and deployment** with a strong focus on real-world usability, maintainability, and measurable outcomes.
+## ⭐ Featured Project — Fraud Monitoring Production System
 
-## Featured Project
+End-to-end Machine Learning system simulating real-world fraud risk analytics.
 
-### Fraud Monitoring Production System
-End-to-end machine learning system designed to simulate real-world fraud risk analytics and production decision workflows.
+✔ fraud probability prediction  
+✔ expected financial loss estimation  
+✔ realtime FastAPI scoring API  
+✔ PostgreSQL risk mart  
+✔ model monitoring & drift detection  
+✔ Power BI executive dashboard  
 
-**What it includes**
-- Fraud probability prediction
-- Expected financial loss estimation
-- Real-time FastAPI scoring API
-- PostgreSQL risk mart
-- Model monitoring and drift detection
-- Power BI executive dashboard
+🔗 Repository:
+https://github.com/vegaFlex/fraud-monitoring-prod
 
-[View Repository](https://github.com/vegaFlex/fraud-monitoring-prod)
+---
 
-## Selected Applications
+## 🚀 Technologies & Tools
+### 📊 Data Analytics & Machine Learning
 
-| Project | Description | Links |
-|---|---|---|
-| **Paradise Food Order App** | Internal food ordering platform with daily menus, locations, and admin summaries for a real business workflow. | [Live Demo](https://nekrato.com/menu/) · [Source Code](https://github.com/vegaFlex/ParadiseFoodOrderApp_README) |
-| **EventHub** | Event management platform with ticket sales, seat selection, and admin controls. | [Live Demo](https://eventhub-vegata.pythonanywhere.com/bg/) · [Source Code](https://github.com/vegaFlex/EventHub_README) |
-| **BookZone** | Online bookstore with interactive shopping flow, cart, and order management. | [Live Demo](https://vegata.pythonanywhere.com/) · [Source Code](https://github.com/vegaFlex/OnlineBookstore_README) |
-
-## What I Bring
-- End-to-end ownership across analytics, backend logic, APIs, reporting, and deployment
-- Strong business-oriented thinking, not just technical implementation
-- Clean architecture, structured data models, and maintainable workflows
-- Practical experience building software that supports real operations
-
-## Technologies & Tools
-
-### Analytics, Data, and ML
 ![Python](https://img.shields.io/badge/-Python-306998?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
@@ -45,7 +30,10 @@ End-to-end machine learning system designed to simulate real-world fraud risk an
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![KNIME](https://img.shields.io/badge/-KNIME-F7DF1E?style=flat-square&logo=knime&logoColor=black)
 
-### Web Development & Engineering
+---
+
+### 🌐 Web Development & Engineering
+
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -56,9 +44,47 @@ End-to-end machine learning system designed to simulate real-world fraud risk an
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 
-## About Me
-I enjoy building systems where analytics, backend engineering, and business logic meet.
 
-I am especially interested in opportunities where I can contribute across the full lifecycle: data, APIs, reporting, deployment, and continuous improvement.
+## About Me
+Data Analyst and Python Engineer building end-to-end analytics platforms and web applications — combining data pipelines, machine learning models, backend APIs, and interactive dashboards to support real business operations and decision-making.
+
+## What I work with:
+
+**Machine Learning**, **scikit-learn**, **feature engineering**,  
+**risk modeling**, **model monitoring**, **data pipelines**,  
+**probability scoring**, **business analytics**, **Power BI dashboards**
+
+**Python**, **Django**, **JavaScript**, **HTML/CSS**, **TailwindCSS**, **AJAX / vanilla JS**,  
+**PostgreSQL**, **SQLite (dev)**, **advanced SQL**, **Excel (analysis, formulas, reporting)**,  
+**data modeling**, **business logic design**, **Git & GitHub**, **GitHub Actions**,  
+**Azure App Service**, **Passenger (SuperHosting)**, **Stripe**.
+
+## How I work:
+I design systems with clear structure and business purpose — clean data models, efficient SQL queries, reliable APIs, and analytics workflows that remain stable under real usage, not only in demos.
+
+I focus on ownership, maintainability, and measurable outcomes: from data ingestion and modeling to deployment and monitoring.
+
+**Open to roles where I can own features end-to-end, analyze data, and improve real business workflows.**
+
+## Hosted Applications  
+Here are my production and live applications:
+- 🍽️ **[Paradise Food Order App – Live Demo](https://nekrato.com/menu/)** – The site can be explored using a provided **test user account**. After logging in, all main features of the application are available for review.
+  
+- **[Paradise Food Order App – Source Code](https://github.com/vegaFlex/ParadiseFoodOrderApp_README)**  
+  Internal food ordering system for Paradise Mattress Factory https://matraciparadise.com/ with daily menus, locations and admin summaries.
+  
+- 🎟️ **[EventHub – Live Demo](https://eventhub-vegata.pythonanywhere.com/bg/)**  
+  **[EventHub – Source Code](https://github.com/vegaFlex/EventHub_README)**  
+  A multifunctional event management platform with ticket sales, seat selection and admin control.
+
+- 📚 **[BookZone – Live Demo](https://vegata.pythonanywhere.com/)**  
+  **[BookZone – Source Code](https://github.com/vegaFlex/OnlineBookstore_README)**  
+  Online bookstore with advanced user interaction, cart and order management.
+
+Additional analytics and machine learning projects are currently in active development.
+ 
+
+📩 Feel free to connect with me or explore my projects! 
+
 
 
