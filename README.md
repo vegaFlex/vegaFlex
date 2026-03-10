@@ -33,7 +33,7 @@ I focus on ownership, maintainability, and measurable outcomes: from data ingest
 
 **Open to roles where I can own features end-to-end, analyze data, and improve real business workflows.**
 
-## Hosted Applications  
+## Hosted WEB Applications  
 
 - 🍽️ **[Paradise Food Order App – Live Demo](https://nekrato.com/menu/)** – The site can be explored using a provided **test user account**. After logging in, all main features of the application are available for review.
 - **[Paradise Food Order App – Source Code](https://github.com/vegaFlex/ParadiseFoodOrderApp_README)** 
