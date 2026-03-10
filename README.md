@@ -6,7 +6,7 @@ My work combines data analysis, machine learning, backend engineering, dashboard
 
 ---
 
-## ⭐ Featured Project — Fraud Monitoring Production System
+## ⭐ Featured Analytics / ML Project — Fraud Monitoring Production System
 
 End-to-end Machine Learning system simulating real-world fraud risk analytics.
 
@@ -17,8 +17,7 @@ End-to-end Machine Learning system simulating real-world fraud risk analytics.
 ✔ model monitoring & drift detection  
 ✔ Power BI executive dashboard  
 
-🔗 Repository:
-[fraud-monitoring-prod](https://github.com/vegaFlex/fraud-monitoring-prod)
+🔗 Repository: [fraud-monitoring-prod](https://github.com/vegaFlex/fraud-monitoring-prod)
 
 ---
 
@@ -26,14 +25,14 @@ End-to-end Machine Learning system simulating real-world fraud risk analytics.
 Data Analyst and Python Engineer building end-to-end analytics platforms and web applications — combining data pipelines, machine learning models, backend APIs, and interactive dashboards to support real business operations and decision-making.
 
 
-## How I work:
+## How I Work:
 I design systems with clear structure and business purpose — clean data models, efficient SQL queries, reliable APIs, and analytics workflows that remain stable under real usage, not only in demos.
 
 I focus on ownership, maintainability, and measurable outcomes: from data ingestion and modeling to deployment and monitoring.
 
 **Open to roles where I can own features end-to-end, analyze data, and improve real business workflows.**
 
-## Hosted WEB Applications  
+## Hosted Web Applications  
 
 - 🍽️ **[Paradise Food Order App – Live Demo](https://nekrato.com/menu/)** – The site can be explored using a provided **test user account**. After logging in, all main features of the application are available for review.
 - **[Paradise Food Order App – Source Code](https://github.com/vegaFlex/ParadiseFoodOrderApp_README)** 
