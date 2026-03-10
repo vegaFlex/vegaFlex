@@ -1,8 +1,5 @@
 # Welcome to my GitHub profile! 👋
 
-
----
-
 I build end-to-end analytics and web systems that turn business processes into reliable, measurable products.
 
 My work combines data analysis, machine learning, backend engineering, dashboards, and deployment, with a strong focus on real-world usability, maintainability, and business value.
@@ -21,7 +18,7 @@ End-to-end Machine Learning system simulating real-world fraud risk analytics.
 ✔ Power BI executive dashboard  
 
 🔗 Repository:
-https://github.com/vegaFlex/fraud-monitoring-prod
+[fraud-monitoring-prod](https://github.com/vegaFlex/fraud-monitoring-prod)
 
 ---
 
@@ -37,10 +34,9 @@ I focus on ownership, maintainability, and measurable outcomes: from data ingest
 **Open to roles where I can own features end-to-end, analyze data, and improve real business workflows.**
 
 ## Hosted Applications  
-Here are my production and live applications:
+
 - 🍽️ **[Paradise Food Order App – Live Demo](https://nekrato.com/menu/)** – The site can be explored using a provided **test user account**. After logging in, all main features of the application are available for review.
-  
-- **[Paradise Food Order App – Source Code](https://github.com/vegaFlex/ParadiseFoodOrderApp_README)**  
+- **[Paradise Food Order App – Source Code](https://github.com/vegaFlex/ParadiseFoodOrderApp_README)** 
   Internal food ordering system for Paradise Mattress Factory https://matraciparadise.com/ with daily menus, locations and admin summaries.
   
 - 🎟️ **[EventHub – Live Demo](https://eventhub-vegata.pythonanywhere.com/bg/)**  
@@ -50,8 +46,6 @@ Here are my production and live applications:
 - 📚 **[BookZone – Live Demo](https://vegata.pythonanywhere.com/)**  
   **[BookZone – Source Code](https://github.com/vegaFlex/OnlineBookstore_README)**  
   Online bookstore with advanced user interaction, cart and order management.
-
-Additional analytics and machine learning projects are currently in active development.
  
 
 📩 Feel free to connect with me or explore my projects! 
