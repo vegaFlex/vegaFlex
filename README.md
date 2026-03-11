@@ -20,6 +20,22 @@ End-to-end Machine Learning system simulating real-world fraud risk analytics.
 🔗 Repository: [fraud-monitoring-prod](https://github.com/vegaFlex/fraud-monitoring-prod)
 
 ---
+## ⭐ Featured Analytics Platform — Debt & Risk Intelligence Hub
+
+End-to-end debt analytics platform for portfolio import, risk scoring, collections monitoring, reporting, and live dashboard analysis.
+
+✔ portfolio import with validation  
+✔ debtor risk scoring and segmentation  
+✔ KPI dashboard with dynamic charts  
+✔ REST API for debtors, portfolios, and KPIs  
+✔ Excel / PDF management reporting  
+✔ role-based access control and admin panel  
+✔ live demo deployment  
+
+🔗 Live Demo: [Debt & Risk Intelligence Hub](https://debt-risk-intelligence-hub.onrender.com)  
+🔗 Repository: [debt-risk-intelligence-hub](https://github.com/vegaFlex/debt-risk-intelligence-hub)
+
+---
 
 ## About Me
 Data Analyst and Python Engineer building end-to-end analytics platforms and web applications — combining data pipelines, machine learning models, backend APIs, and interactive dashboards to support real business operations and decision-making.
