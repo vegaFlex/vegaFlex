@@ -4,6 +4,9 @@ I build end-to-end analytics and web systems that turn business processes into r
 
 My work combines data analysis, machine learning, backend engineering, dashboards, and deployment, with a strong focus on real-world usability, maintainability, and business value.
 
+🔗 **Portfolio Website:** [vegaflex.github.io](https://vegaflex.github.io/)  
+Selected analytics, ML, and web application projects in one place.
+
 ---
 ## ⭐ Featured Analytics Platform — Debt & Risk Intelligence Hub
 
