@@ -22,6 +22,7 @@ End-to-end debt analytics and acquisition review platform for portfolio import, 
 ✔ live demo deployment and browser-ready documentation  
 
 🔗 Live Demo: [Debt & Risk Intelligence Hub](https://debt-risk-intelligence-hub.onrender.com)  
+🕒 Live demo note: first load may take 20-30 seconds.  
 🔗 Repository: [debt-risk-intelligence-hub](https://github.com/vegaFlex/debt-risk-intelligence-hub)
 
 ---
