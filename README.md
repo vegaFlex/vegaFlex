@@ -10,16 +10,17 @@ Selected analytics, ML, and web application projects in one place.
 ---
 ## ⭐ Featured Analytics Platform — Debt & Risk Intelligence Hub
 
-End-to-end debt analytics and acquisition review platform for portfolio import, risk scoring, collections monitoring, reporting, and live dashboard analysis.
+End-to-end debt analytics, acquisition review, and collections strategy platform for portfolio import, risk scoring, KPI monitoring, reporting, valuation, and next-best-action planning.
 
 ✔ portfolio import with validation  
 ✔ debtor risk scoring and segmentation  
 ✔ KPI dashboard with dynamic charts  
 ✔ valuation workspace with package ranking and recommendations  
 ✔ portfolio comparison desk and benchmark-aware pricing  
-✔ REST API for debtors, portfolios, and KPIs  
-✔ Excel / PDF reporting and role-based access control  
-✔ live demo deployment and browser-ready documentation  
+✔ collections strategy workspace with next-best-action recommendations  
+✔ collector queue, strategy simulator, and saved strategy history  
+✔ REST API for debtors, portfolios, KPIs, and strategy outputs  
+✔ Excel / PDF reporting, role-based access control, and browser-ready documentation  
 
 🔗 Live Demo: [Debt & Risk Intelligence Hub](https://debt-risk-intelligence-hub.onrender.com)  
 🕒 Live demo note: first load may take 20-30 seconds.  
