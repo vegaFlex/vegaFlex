@@ -27,6 +27,23 @@ End-to-end debt analytics, acquisition review, and collections strategy platform
 🔗 Repository: [debt-risk-intelligence-hub](https://github.com/vegaFlex/debt-risk-intelligence-hub)
 
 ---
+## ⭐ Featured Analytics / ML Project — Revenue Risk and Customer Churn Intelligence Platform
+
+End-to-end churn analytics and revenue-risk intelligence platform for customer scoring, revenue-at-risk estimation, monitoring, protected browser workflows, and internal operational controls.
+
+✔ churn probability prediction  
+✔ revenue-at-risk estimation  
+✔ batch scoring and realtime FastAPI scoring API  
+✔ PostgreSQL risk mart  
+✔ monitoring with data drift, prediction drift, and threshold alerts  
+✔ browser dashboard, customer explorer, and monitoring center  
+✔ schema-mapped dataset upload with profiling and field mapping  
+✔ browser documentation hub with user, testing, buyer, and upload guides  
+✔ session-based login with viewer, analyst, and admin roles  
+✔ protected admin panel for monitoring runs, retraining, model registration, and mart refresh workflows  
+
+🔗 Repository: [churn-revenue-risk-prod](https://github.com/vegaFlex/churn-revenue-risk-prod)
+--
 
 ## ⭐ Featured Analytics / ML Project — Fraud Monitoring Production System
 
