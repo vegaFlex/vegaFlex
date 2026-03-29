@@ -1,8 +1,8 @@
 # Welcome to my GitHub profile! 👋
 
-I build end-to-end analytics and web systems that turn business processes into reliable, measurable products.
+I build end-to-end analytics, process automation, and web systems that turn business processes into reliable, measurable products.
 
-My work combines data analysis, machine learning, backend engineering, dashboards, and deployment, with a strong focus on real-world usability, maintainability, and business value.
+My work combines data analysis, machine learning, backend engineering, dashboards, process automation, and deployment, with a strong focus on real-world usability, maintainability, and business value.
 
 🔗 **Portfolio Website:** [vegaflex.github.io](https://vegaflex.github.io/)  
 Selected analytics, ML, and web application projects in one place.
@@ -62,15 +62,15 @@ End-to-end Machine Learning system simulating real-world fraud risk analytics.
 ---
 
 ## About Me
-Data Analyst and Python Engineer building end-to-end analytics platforms and web applications — combining data pipelines, machine learning models, backend APIs, and interactive dashboards to support real business operations and decision-making.
+Data Analyst and Python Engineer building end-to-end analytics platforms, process automation workflows, and web applications — combining data pipelines, machine learning models, backend APIs, and interactive dashboards to support real business operations and decision-making.
 
 
 ## How I Work:
-I design systems with clear structure and business purpose — clean data models, efficient SQL queries, reliable APIs, and analytics workflows that remain stable under real usage, not only in demos.
+I design systems with clear structure and business purpose — clean data models, efficient SQL queries, reliable APIs, process automation workflows, and analytics layers that remain stable under real usage, not only in demos.
 
 I focus on ownership, maintainability, and measurable outcomes: from data ingestion and modeling to deployment and monitoring.
 
-**Open to roles where I can own features end-to-end, analyze data, and improve real business workflows.**
+**Open to roles where I can own features end-to-end, analyze data, automate business processes, and improve real operational workflows.**
 
 ## ⭐ Hosted Web Applications  
 
